@@ -27,8 +27,7 @@ This mixed-methods study investigates the housing experiences of international g
 - Demographic influences (Objective 2): Europe/Asia females highest disadvantage (1.8–2.0), Africa higher negative impact (29.8%); females prioritize safety (62.7%), social support (76.5%); cultural platforms (Asia 7.1%).
 - Policy recommendations (Objective 3, RQ3): Affordability (53.0%), university support (12.0%), amenities/safety/space (10.0% each); qualitative: rent caps, landlord training, guarantors; co-occurrences: affordability + rent reduction (11).
 
-## Sample Visualization
-![Housing Difficulty by Region](figures/plot1.png)
+
 
 ## How to Reproduce the Analysis
 ### Requirements
